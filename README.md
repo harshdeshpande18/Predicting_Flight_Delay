@@ -1,6 +1,6 @@
-# Predicting_Flight_Delay
+# Predicting_Flight_Delay_Project
 Analysing the Duration and Factors affecting Delay of Flights of 6 Major Airlines on 5 Major Routes connecting 5 Major Cities in India and Devising an Algorithm to Predict Flight Delays of Next Journeys.
-# **Flight-Delay-Prediction**
+# **Flight_Delay_Prediction**
 
 Flight Delay Prediction: Building a predictive model analyzing flight delay in Indian Airlines by preparing data from scratch using APIs (JSON) web scraping methods. Further engineering the data and using Machine Learning algorithms to predict flight delay time. The trained model can be used to predict the flight delay in new test sets. .
 
